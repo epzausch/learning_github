@@ -5,3 +5,4 @@ print("thunder then lightning raced b")
 
 print("\nChapter 2\n")
 print("\tand all through the nite the man cried wolf")
+print("BUT HE WAS A SHEEP *SHOCK* *SIGH* *FAINT*")
